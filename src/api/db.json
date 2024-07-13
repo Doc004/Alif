@@ -1,0 +1,83 @@
+{
+  "posts": [
+    {
+      "id": "4140",
+      "firstName": "ramazon",
+      "lastName": "juraev",
+      "email": "ramazond14@gmail.com",
+      "phone": "907252428",
+      "dob": "2024-07-05"
+    },
+    {
+      "id": "4a7d",
+      "firstName": "sdasasdas",
+      "lastName": "asdasdsadas",
+      "email": "rsadasdsad@gmail.com",
+      "phone": "213123123",
+      "dob": "2024-07-04"
+    },
+    {
+      "id": "f012",
+      "firstName": "ramazon",
+      "lastName": "juraev",
+      "email": "ramazond14@gmail.com",
+      "phone": "9102312931",
+      "dob": "2024-07-02"
+    },
+    {
+      "id": "2a62",
+      "firstName": "sad",
+      "lastName": "dsa",
+      "email": "ramazond14@gmail.com",
+      "phone": "21312321",
+      "dob": "2024-07-11"
+    },
+    {
+      "id": "6db6",
+      "firstName": "asdsadasd",
+      "lastName": "sad234234",
+      "email": "ramazond14@gmail.com",
+      "phone": "234234234",
+      "dob": "2024-07-04"
+    },
+    {
+      "id": "a866",
+      "firstName": "ыфвфывфыв",
+      "lastName": "цуйцуцйуйцу",
+      "email": "ramazond14@gmail.com",
+      "phone": "3213123123",
+      "dob": "2024-07-05"
+    },
+    {
+      "id": "c508",
+      "firstName": "qweqweqwewq",
+      "lastName": "wqeqweqwe",
+      "email": "rsadasdsad@gmail.com",
+      "phone": "123123123123",
+      "dob": "2024-07-20"
+    },
+    {
+      "id": "6998",
+      "firstName": "qweqweqwe",
+      "lastName": "qweqweqw",
+      "email": "ramazond14@gmail.com",
+      "phone": "2312312312",
+      "dob": "2024-07-09"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
